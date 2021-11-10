@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Having spent over 7 years in the workforce as an assembler and quality assurance inspector, I am now
+pursuing a career in software development. Driven by curiosity and a passion for technology, I am eager to
+learn and collaborate.
+
 <!--
 **jboxerman08/jboxerman08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
