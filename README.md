@@ -1,4 +1,4 @@
-### Hi there 👋 I am Jeremy Boxerman! 
+<h1 align="center">### Hi there 👋 I am Jeremy Boxerman!</h1>
 ### A Full-stack Web Developer from Montreal, Canada
 <p>Having spent over 7 years in the workforce as an assembler and quality assurance inspector, I am now
 pursuing a career in web development. Driven by curiosity and a passion for technology, I am eager to
