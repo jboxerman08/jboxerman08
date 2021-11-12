@@ -26,7 +26,6 @@ pursuing a career in web development. Driven by curiosity and a passion for tech
   <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"></a>
   <a href="https://www.postgresql.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;"></a>
   <a href="https://www.sqlite.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/1b8a779f280e099e2d67ab949dad604e25ce0d321e66474c04430201790b3874/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667" alt="sqlite" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="max-width: 100%;"></a>
-   <a href="https://redis.io" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" style="max-width: 100%;"></a>
   <a href="https://webpack.js.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" style="max-width: 100%;"> </a>
 </p>
 
