@@ -4,8 +4,7 @@
 <p>Having spent over 7 years in the workforce as an assembler and quality assurance inspector, I am now
 pursuing a career in web development. Driven by curiosity and a passion for technology, I am eager to learn and collaborate.</p>
 
-- 🔭 I’m currently working on the on-going development of <a href="http://www.cleankuts.com/">Clean Kuts</a>.
-- 🌱 I’m currently learning <strong>React JS</strong>.
+- 🌱 I’m currently learning <strong>Vue JS</strong> & <strong>Liquid</strong> - Shopify's templating language.
 - 👯 I’m looking to collaborate on <strong>music</strong>-related projects.
 - ⚡ Fun fact: Passionate about all things <strong>music</strong>, <strong>skateboarding</strong>, <strong>coding</strong> & <strong>coffee</strong>. 
 
