@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I am Jeremy Boxerman! 👋</h1>
 <p align="center"><strong>A Full-Stack Web Developer from Montreal, Canada</strong></p>
 
-<p>Having spent over 7 years in the workforce as an experienced assembler and quality assurance inspector, I made the career switch towards web development, graduating from the Le Wagon Coding Bootcamp in November 2011 as a full-stack developer. 
+<p>Having spent over 7 years in the workforce as an experienced assembler and quality assurance inspector, I made the career switch towards web development, graduating from the Le Wagon Coding Bootcamp in November 2021 as a full-stack developer. 
 
-Driven by curiosity and a passion for technology, I decided to dive into coding and explore the endless possibilities coding offers. This change has allowed me to start working at Diff Agency as of November 2011, joining the front-end development team.</p>
+Driven by curiosity and a passion for technology, I decided to dive into coding and explore the endless possibilities coding offers. This change has allowed me to start working at Diff Agency as of November 2021, joining the front-end development team.</p>
 
 - 🌱 I’m currently learning <strong>Vue JS</strong>, <strong>ThreeJS</strong> & <strong>Liquid</strong> - Shopify's templating language.
 - 👯 I’m looking to collaborate on <strong>music</strong>-related projects.
