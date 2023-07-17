@@ -5,7 +5,7 @@
 
 Driven by curiosity and a passion for technology, I decided to dive into coding and explore the endless possibilities coding offers. This change has allowed me to start working at Diff Agency as of November 2021, joining the front-end development team.</p>
 
-- 🌱 I’m currently learning <strong>Vue JS</strong>, <strong>Liquid</strong>m, <strong>ThreeJS</strong> & <strong>React w/ React Three Fiber</strong>, .
+- 🌱 I’m currently learning <strong>Vue JS</strong>, <strong>Liquid</strong>, <strong>ThreeJS</strong> & <strong>React w/ React Three Fiber</strong>, .
 - 👯 I’m looking to collaborate on <strong>music</strong>-related projects.
 - ⚡ Fun fact: Passionate about all things <strong>music</strong>, <strong>skateboarding</strong>, <strong>coding</strong> & <strong>coffee</strong>. 
 
