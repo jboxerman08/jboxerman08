@@ -3,7 +3,7 @@
 
 <p>Having spent over 7 years in the workforce as an experienced assembler and quality assurance inspector, I made the career switch towards web development, graduating from the Le Wagon Coding Bootcamp in November 2021 as a full-stack developer. 
 
-Driven by curiosity and a passion for technology, I decided to dive into coding and explore the endless possibilities coding offers. This change has allowed me to start working at Diff Agency as of November 2021, joining the front-end development team.</p>
+Driven by curiosity and a passion for technology, I decided to dive into coding and explore the endless possibilities coding offers. This change has allowed me to start working at Diff Agency in November 2021, joining the front-end development team for nearly 2 years. As of April 2024, I joined eSolutions Furniture as their main Shopify developer.</p>
 
 - 🔭 I’m currently working on an animation project combined with <strong>Blender</strong> 3D models, <strong>ThreeJS</strong> and <strong>React w/ React Three Fiber</strong>. 🛹
 - 👯 I’m looking to collaborate on <strong>music</strong> and <strong>videogame</strong>-related projects.
